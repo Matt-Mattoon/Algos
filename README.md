@@ -1,1 +1,1 @@
-Practice coding with alorithms in different languages. Current languages: JavaScript, Python
+Practice coding with algorithms in different languages. Current languages: JavaScript, Python
